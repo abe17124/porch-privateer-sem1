@@ -33,8 +33,5 @@ To properly install the dependacies, please follow the guides linkes below.
 * Adafruit BNO08x Library Setup: https://learn.adafruit.com/adafruit-9-dof-orientation-imu-fusion-breakout-bno085/arduino
 
 # Authors and acknowledgment
-Abishek Gomes
-Devan Mears
-Joseph Wackowski
-Austin Major
+Abishek Gomes, Devan Mears, Joseph Wackowski, Austin Major
 
